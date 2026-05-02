@@ -1,5 +1,6 @@
 # RS_Gaussian_Noise_Filtering
 Summary:  
+
 &emsp; The filtered noise is still Gaussian distribution. (all the data points of blue line)  
 &emsp; The envelope of filtered noise is Rayleigh distribution. (red line)  
 
