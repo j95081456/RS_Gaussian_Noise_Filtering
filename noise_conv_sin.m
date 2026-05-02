@@ -65,3 +65,9 @@ legend('原始高斯雜訊', '卷積後訊號 (頻率為 f0)', '包絡線 (Rayle
 % xlim([0.5 1.0]);
   xlim([0 T]);
 grid on;
+
+%% Histogram %%
+figure(2)
+histogram(conv_result)
+figure(3)
+histogram(envelope)
